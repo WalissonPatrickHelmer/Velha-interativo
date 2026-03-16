@@ -4,9 +4,79 @@ Projeto web interativo desenvolvido com **HTML, JavaScript puro e Tailwind CSS**
 
 ---
 
-## 📸 Preview do Projeto
+📸 Preview do Projeto
+🧭 Menu 1 — Jogador vs Jogador (P1 vs P2)
 
-![Preview do Projeto](./preview.png)
+Modo clássico onde dois jogadores disputam localmente no mesmo dispositivo.
+
+Alternância automática de turnos
+
+Identificação visual do jogador atual
+
+Detecção automática de vitória ou empate
+
+Atualização do placar em tempo real
+
+Ideal para partidas rápidas entre dois usuários.
+
+![Preview do Projeto](./preview-menu.png)
+
+
+🤖 Menu 2 — Jogador vs Máquina (P1 vs PC)
+
+Modo single player onde o jogador enfrenta a Inteligência Artificial.
+
+Escolha de níveis de dificuldade
+
+IA com tomada de decisão estratégica
+
+Sistema de bloqueio e tentativa de vitória automática
+
+Experiência progressiva conforme o nível selecionado
+
+Simula diferentes níveis de habilidade da máquina.
+
+![Preview do Projeto](./preview-menu2.png)
+
+🎮 Menu 3 — Área do Jogo
+
+Tela principal onde ocorre a partida.
+
+Tabuleiro interativo 3x3
+
+Feedback visual das jogadas
+
+Destaque da combinação vencedora
+
+Sistema de reinício de rodada
+
+Persistência do placar utilizando LocalStorage
+
+Interface responsiva adaptada para desktop e mobile.
+
+
+![Preview do Projeto](./tela.png)
+
+
+✅ Tela Final — Jogo Finalizado com Sucesso
+
+Após a conclusão da partida, o sistema identifica automaticamente o resultado do jogo e apresenta o estado final ao usuário.
+
+Nesta etapa:
+
+O jogador vencedor é destacado visualmente
+
+A combinação vencedora é evidenciada no tabuleiro
+
+O placar é atualizado automaticamente
+
+O resultado da rodada é exibido de forma clara (vitória ou empate)
+
+O usuário pode iniciar uma nova partida rapidamente
+
+Essa tela garante uma experiência completa, fornecendo feedback imediato ao jogador e mantendo a continuidade da gameplay sem necessidade de recarregar a página.
+
+![Preview do Projeto](./final.png)
 
 ---
 
